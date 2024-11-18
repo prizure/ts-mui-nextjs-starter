@@ -6,9 +6,13 @@ sections:
     title: Priyanka Beltangadi
     subtitle: Product Designer
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      Passionate Product Designer/UX Lead with expertise in user-centric design
+      methodologies, wire-framing, prototyping, and UI/UX design principles. I
+      am skilled in collaborating with cross-functional teams, conducting user
+      research, and iterating designs to create intuitive and visually appealing
+      digital products. I completed a Product Management course at Duke
+      Corporation University affiliated with Upgrad. I am seeking opportunities
+      as a Senior Product Designer.
     actions:
       - type: Button
         label: Start Building
