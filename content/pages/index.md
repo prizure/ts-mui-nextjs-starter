@@ -15,7 +15,7 @@ sections:
       as a Senior Product Designer.
     actions:
       - type: Button
-        label: Start Building
+        label: 'Connect '
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
