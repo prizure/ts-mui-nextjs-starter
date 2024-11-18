@@ -28,7 +28,9 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: >-
+        /images/Orange Blue and White Graphic Designer LinkedIn Profile
+        Picture.png
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
