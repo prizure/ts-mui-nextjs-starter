@@ -16,7 +16,7 @@ sections:
     actions:
       - type: Button
         label: 'Connect '
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        url: '9326499099'
         size: large
         variant: contained
         color: primary
