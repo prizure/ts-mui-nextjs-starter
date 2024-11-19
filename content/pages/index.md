@@ -57,10 +57,11 @@ sections:
           url: /images/mui-5.svg
           altText: Second item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Developed and maintained the brand’s visual identity, ensuring
+          consistency across platforms to enhance user engagement and brand
+          recognition. Collaborated with UX teams to create user-friendly and
+          functional designs, crafting high-fidelity prototypes and wireframes
+          using Figma to streamline development and boost user engagement.
         actions:
           - type: Button
             label: Read the Docs
