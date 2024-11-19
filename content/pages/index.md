@@ -28,9 +28,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: >-
-        /images/Orange Blue and White Graphic Designer LinkedIn Profile
-        Picture.png
+      url: /images/PP.png
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
