@@ -45,12 +45,7 @@ sections:
           management services for hospitals, resulting in a **20% boost in
           efficiency** and an **18% increase in adoption rates**. Leveraged
           graphic design to simplify complex financial data, aiding hospital
-          staff in better decision-making and resource allocation. Through
-          in-depth UX research, I gained critical insights into user needs,
-          enabling tailored financial solutions. Social media initiatives
-          amplified service reach, fostering greater stakeholder engagement. UX
-          enhancements improved hospital staff satisfaction by **10%**,
-          strengthening the overall perception of health insurance services.
+          staff in better decision-making and resource allocation. 
         actions:
           - type: Button
             label: Read the Docs
