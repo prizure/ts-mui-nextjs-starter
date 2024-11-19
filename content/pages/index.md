@@ -70,7 +70,7 @@ sections:
         title: B2B
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/Search Page - 4.png
           altText: Third item image
         text: >
           Promoted to Team Leader in September 2023, managing a team of 6–10
