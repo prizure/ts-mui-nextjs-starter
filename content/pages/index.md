@@ -38,7 +38,7 @@ sections:
         title: B2B2C Project
         image:
           type: Image
-          url: /images/Search Page - 2 (filters).png
+          url: /images/mui-5.svg
           altText: First item image
         text: >
           Implemented user-centric design principles to enhance financial
