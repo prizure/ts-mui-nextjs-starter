@@ -50,7 +50,7 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Second Card Title
+        title: B2C
         image:
           type: Image
           url: /images/mui-5.svg
