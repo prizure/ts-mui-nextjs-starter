@@ -65,7 +65,7 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Third Card Title
+        title: B2B
         image:
           type: Image
           url: /images/ts.svg
