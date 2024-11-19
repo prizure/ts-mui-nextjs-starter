@@ -54,7 +54,7 @@ sections:
         title: B2C
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/Search Page - 5 (filters).png
           altText: Second item image
         text: >
           Developed and maintained the brand’s visual identity, ensuring
