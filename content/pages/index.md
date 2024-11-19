@@ -85,5 +85,6 @@ sections:
         actions:
           - type: Button
             label: Check Link
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: >-
+              https://www.figma.com/design/QlhlyauudJvTDcDs7UrTn7/Resume?node-id=323-6
 ---
