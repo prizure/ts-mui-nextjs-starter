@@ -31,7 +31,7 @@ sections:
       url: /images/PP.png
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
+    title: Projects
     subtitle: Section subtitle here
     items:
       - type: Card
