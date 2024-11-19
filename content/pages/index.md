@@ -32,7 +32,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: Projects
-    subtitle: Section subtitle here
+    subtitle: Dedicated work and time
     items:
       - type: Card
         title: First Card Title
