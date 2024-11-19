@@ -84,6 +84,6 @@ sections:
           mobile app user interactions by **16%**.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Check Link
             url: 'https://docs.netlify.com/visual-editor/overview/'
 ---
