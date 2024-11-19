@@ -54,7 +54,7 @@ sections:
         title: B2C
         image:
           type: Image
-          url: /images/Screenshot 2024-11-19 at 9.12.05 PM.png
+          url: /images/nextjs.svg
           altText: Second item image
         text: >
           Developed and maintained the brand’s visual identity, ensuring
