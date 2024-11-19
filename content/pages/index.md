@@ -35,7 +35,7 @@ sections:
     subtitle: Dedicated work and time
     items:
       - type: Card
-        title: First Card Title
+        title: B2B2C Project
         image:
           type: Image
           url: /images/nextjs.svg
