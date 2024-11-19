@@ -41,10 +41,16 @@ sections:
           url: /images/nextjs.svg
           altText: First item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Implemented user-centric design principles to enhance financial
+          management services for hospitals, resulting in a **20% boost in
+          efficiency** and an **18% increase in adoption rates**. Leveraged
+          graphic design to simplify complex financial data, aiding hospital
+          staff in better decision-making and resource allocation. Through
+          in-depth UX research, I gained critical insights into user needs,
+          enabling tailored financial solutions. Social media initiatives
+          amplified service reach, fostering greater stakeholder engagement. UX
+          enhancements improved hospital staff satisfaction by **10%**,
+          strengthening the overall perception of health insurance services.
         actions:
           - type: Button
             label: Read the Docs
