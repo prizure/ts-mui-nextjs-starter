@@ -48,7 +48,7 @@ sections:
           staff in better decision-making and resource allocation. 
         actions:
           - type: Button
-            label: Read the Docs
+            label: Check Link
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: B2C
