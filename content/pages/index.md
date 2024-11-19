@@ -73,10 +73,13 @@ sections:
           url: /images/ts.svg
           altText: Third item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Promoted to Team Leader in September 2023, managing a team of 6–10
+          members, including Social Media Managers and Developers. Conducted
+          detailed UX persona and competitor analysis across 7+ projects in the
+          UK, Saudi Arabia, and India. Led market analysis and target group
+          profiling for the Nexus Application in India, achieving a **17%
+          increase in user engagement**. Introduced a rewards system, boosting
+          mobile app user interactions by **16%**.
         actions:
           - type: Button
             label: Read the Docs
