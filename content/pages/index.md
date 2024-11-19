@@ -65,7 +65,7 @@ sections:
           using Figma to streamline development and boost user engagement.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Check Link
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: B2B
